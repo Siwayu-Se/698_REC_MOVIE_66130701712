@@ -4,7 +4,8 @@ import pickle
 import pandas as pd
 
 # กำหนด URL หรือเส้นทางของภาพพื้นหลัง
-background_image_url = "https://images7.alphacoders.com/558/thumb-1920-558894.jpg"
+## background_image_url = "https://images7.alphacoders.com/558/thumb-1920-558894.jpg"
+background_image_url = "https://images6.alphacoders.com/133/thumbbig-1338130.webp"
 
 # กำหนดสีที่ต้องการ
 text_color = "#FFFFFF"  # สีที่คุณต้องการ
