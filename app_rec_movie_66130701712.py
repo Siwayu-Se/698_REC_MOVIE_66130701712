@@ -6,7 +6,7 @@ import pandas as pd
 # กำหนด URL หรือเส้นทางของภาพพื้นหลัง
 background_image_url = "https://images7.alphacoders.com/105/thumb-1920-1053907.jpg"
 # กำหนดสีที่ต้องการ
-text_color = "#FFFFFF"  # สีที่คุณต้องการ
+text_color = "#333366"  # สีที่คุณต้องการ
 
 # ใส่ CSS สำหรับพื้นหลังและสีตัวอักษร
 st.markdown(
